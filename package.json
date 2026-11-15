@@ -1,0 +1,15 @@
+{
+  "name": "pasantia-js",
+  "version": "1.0.0",
+  "description": "Programa de formación: de C# a Junior Front-end (JS, HTML, CSS, React/Next.js, Node/Express)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "test:01": "node --test 01-javascript-fundamentos/tests/",
+    "test:watch": "node --test --watch"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
